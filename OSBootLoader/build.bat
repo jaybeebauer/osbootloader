@@ -1,0 +1,1 @@
+"C:\Program Files\NASM\nasm" -f bin OSBootLoader\boot.asm -o OSBootLoader\boot.img
